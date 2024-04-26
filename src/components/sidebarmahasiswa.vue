@@ -32,7 +32,7 @@
 		<div class="flex"></div>
 		
 		<div class="menu">
-			<router-link to="/halmasuk" class="button">
+			<router-link to="/" class="button">
 				<span class="material-icons">settings</span>
 				<span class="text">Logout</span>
 
